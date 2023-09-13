@@ -2,6 +2,6 @@ package the_first_module
 
 import "fmt"
 
-func outputToConsole(txt string) {
+func OutputToConsole(txt string) {
 	fmt.Println(txt)
 }
