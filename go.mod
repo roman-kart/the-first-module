@@ -1,3 +1,3 @@
-module the-first-module
+module github.com/roman-kart/the-first-module
 
 go 1.20
